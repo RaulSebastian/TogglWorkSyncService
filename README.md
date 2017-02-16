@@ -4,7 +4,12 @@ This small application is ment to create or update a time entry for a specific p
 
 ## Installation
 
-Get the source, open the solution (f.ex. in Visual Studio) and compile the application.
+Get the source, open the solution (f.ex. in Visual Studio) and adjust the App.config.
+- "LogFileDestination" is the subdirectory/file within your local app data folder
+- The "AuthorizationKey" has to have the format `Basic TOKEN` where TOKEN is the hashed api token/login 
+- Set the "DomainName" and "DomainProjectName" to the desired Toggl specific `workspace` and `project`
+
+Compile the application and you are ready to go.
 
 ## Usage
 
@@ -22,12 +27,15 @@ Contributions are always welcome.
 
 ## History
 
+2017.02.16 - v1.6
+  Basic Functionality
+
 2017.02.16 - Created repository.
 
 ## Credits
 
 [Toggl](https://www.toggl.com/)
-[Toggl Api](https://github.com/toggl/toggl_api_docs)
+[Toggl Api v8](https://github.com/toggl/toggl_api_docs)
 [RestSharp](http://restsharp.org/)
 [Json.NET](http://www.newtonsoft.com/json)
 
