@@ -29,7 +29,7 @@ Contributions are always welcome.
 
 2017.02.16 - v1.6
 
-  Basic Functionality
+* Basic Functionality
 
 2017.02.16 - Created repository.
 
