@@ -46,6 +46,4 @@ Contributions are always welcome.
 
 ## License
 
-MIT License Copyright (c) 2017
-
-To the extent possible under law, [Raul Schnelzer](http://https://github.com/RaulSebastian) has waived all copyright and related or neighboring rights to this work.
+MIT License Copyright © 2017
