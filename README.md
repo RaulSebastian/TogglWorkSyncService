@@ -36,9 +36,13 @@ Contributions are always welcome.
 ## Credits
 
 [Toggl](https://www.toggl.com/)
+
 [Toggl Api v8](https://github.com/toggl/toggl_api_docs)
+
 [RestSharp](http://restsharp.org/)
+
 [Json.NET](http://www.newtonsoft.com/json)
+
 
 ## License
 
